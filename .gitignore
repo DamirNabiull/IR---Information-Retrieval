@@ -1,3 +1,6 @@
 homeworks/downloaded_files
 labs/docs_collection
 labs/test_collection
+homeworks/datasets
+homeworks/shard
+*.key
